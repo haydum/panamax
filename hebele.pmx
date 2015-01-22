@@ -1,0 +1,10 @@
+---
+name: hebele
+description: Panamax demo template
+keywords: neo4j
+type: Default
+documentation: ''
+images:
+- name: tpires_neo4j_latest
+  source: tpires/neo4j:latest
+  type: Default
